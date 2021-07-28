@@ -8,6 +8,14 @@ import charts
 st.set_page_config(page_title='PMRR Reporting Dashboard', page_icon = 'battery', initial_sidebar_state = 'expanded')
 st.sidebar.title('PMRR Reporting Dashboard')
 
+hide_streamlit_style = """
+<style>
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+</style>
+
+"""
+st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
 
 password = st.sidebar.text_input(label='Enter password to access report')
 
