@@ -1,0 +1,9 @@
+﻿Model,Description,Model Code,Simulated by,Charge Rate
+1,Echogen schedule using WESM rates for charging & discharging,E-WESM,PMRR,WESM
+2,Echogen schedule using BTM Energy Fee as charging rate,E-EF,PMRR,1.7 PhP/kWh
+3,Echogen schedule using BTM Energy Fee and Capacity fee as charging rate,E-EFCF,PMRR,3.88 PhP/kWh
+4,MRR schedule using BTM Energy Fee as charging rate,P-EF,PMRR,1.7 PhP/kWh
+5,PMRR schedule using BTM Energy Fee and Capacity fee as charging rate,P-EFCF,PMRR,3.88 PhP/kWh
+6,PMRR schedule using WESM rates for charging & discharging,P-WESM-U,PMRR,WESM
+7,PMRR schedule using WESM rates for charging & discharging with minimum WESM rate during discharging,P-WESM-C,PMRR,WESM Constrained
+8,Echogen results from R. Wackerly,E-WESM-RW,Echogen-RW,WESM

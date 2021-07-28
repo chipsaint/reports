@@ -1,7 +1,7 @@
-﻿Model,Model Code,Charging Rate,Discharging Mode,Ave. Cycles per Year,Cost,Income,Profit
-1,P-ADJ-EF,1.7 Php/kWh,Adjacent,470,191647.8,343868.141,152220.341
-2,P-ADJ-EFCF,3.88 Php/kWh,Adjacent,470,437407.92,343868.141,-93539.779
-3,P-NADJ-EF,1.7 Php/kWh,Non-Adjacent,366,149074.7,362618.865,213544.165
-4,P-NADJ-EFCF,3.88 Php/kWh,Non-Adjacent,366,340241.08,362618.865,22377.785
-5,P-WESM,WESM,Non-Adjacent,366,251143.571,363643.751,112500.179
-6,E-LT,WESM,Non-Adjacent,365,213402.59,330050.73,116648.14
+﻿Model,Model Description,Model Code,Charging Rate,Discharging Mode,Ave. Cycles per Year,Cost,Income,Profit
+1,PMRR Schedule with charging rate at BTM Energy Fee and adjacent discharging mode,P-ADJ-EF,1.7 PhP/kWh,Adjacent,470,191647.8,343868.141,152220.341
+2,PMRR Schedule with charging rate at BTM Energy and Capacity Fee and adjacent discharging mode,P-ADJ-EFCF,3.88 PhP/kWh,Adjacent,470,437407.92,343868.141,-93539.779
+3,PMRR Schedule with charging rate at BTM Energy Fee and non-adjacent discharging mode,P-NADJ-EF,1.7 PhP/kWh,Non-Adjacent,366,149074.7,362618.865,213544.165
+4,PMRR Schedule with charging rate at BTM Energy and Capacity Fee and non-adjacent discharging mode,P-NADJ-EFCF,3.88 PhP/kWh,Non-Adjacent,366,340241.08,362618.865,22377.785
+5,PMRR Schedule with charging and discharging at WESM rates,P-WESM,WESM,Non-Adjacent,366,251143.571,363643.751,112500.179
+6,Echogen Schedule with charging and discharging at WESM rates,E-LT,WESM,Non-Adjacent,365,213402.59,330050.73,116648.14
