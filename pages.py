@@ -1,4 +1,3 @@
-from os import name
 import numpy as np
 import h5py
 from plotly.tools import make_subplots
